@@ -1,4 +1,6 @@
+# Ignore virtual environment
 project-euler/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
