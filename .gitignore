@@ -1,5 +1,5 @@
 # Ignore virtual environment
-*project-euler/
+*project-euler/ 
 
 
 # Byte-compiled / optimized / DLL files
